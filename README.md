@@ -4,7 +4,7 @@
 
 **`Front-end developer`**
 
-![KIROKAZE](https://github.com/user-attachments/assets/8a6f1a57-2f25-40fb-8bd6-51c3cad3f74a)
+<img width="100%" src="https://github.com/user-attachments/assets/8a6f1a57-2f25-40fb-8bd6-51c3cad3f74a" alt="gif" />
 
 I'm Artur, a front-end developer. I started my development journey from college, where I gained skills programming in C++/C#, but in the 4th year I became interested JavaScript and started independent study. Now I work with Vue.js/Nuxt.js for frontend and Node.js/Express.js for backend, I can create various animations using GSAP, implement cool 3D animations using Three.js, spine animations using Pixi.js
 <br>
@@ -27,7 +27,7 @@ I'm Artur, a front-end developer. I started my development journey from college,
 
 ### 🧰 Tools
 
-<img align="left" alt="JavaScript" width="100%" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="jquery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
 <img align="left" alt="vuejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/>
