@@ -3,7 +3,7 @@
 # 🏄‍♂️ Lishchyshyn Artur
 
 **`Front-end developer`**
-<img src="https://camo.githubusercontent.com/c7943a22e38a88ed79cba824f68b7a635381a6a3460a65e6f659ae8c955584cc/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f63636134663036343834623434376330363837663033323561663562333863392f343238613864623164633861653932662d38372f733132383078313932302f376337353135353862316439336531356332643838356366663231363264646239353035396238642e67696676" alt="im" />
+<img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="gif" />
 
 I'm Artur, a front-end developer. I started my development journey from college, where I gained skills programming in C++/C#, but in the 4th year I became interested JavaScript and started independent study. Now I work with Vue.js/Nuxt.js for frontend and Node.js/Express.js for backend, I can create various animations using GSAP, implement cool 3D animations using Three.js, spine animations using Pixi.js
 <br>
