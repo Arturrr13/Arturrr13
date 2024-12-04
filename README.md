@@ -40,7 +40,7 @@ I'm Artur, a front-end developer. I started my development journey from college,
 
 <div align="left">
 <details align="left">
- <summary align="left"><h3>👨‍💻 Work Experience</h3></summary>
+ <summary align="left"><h3 align="left">👨‍💻 Work Experience</h3></summary>
    <ul>
       <li>freelancer since 08.2021</li>
       <li>12.2021 to 11.2023 in the company "Glyanets"</li>
