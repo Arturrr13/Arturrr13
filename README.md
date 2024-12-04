@@ -69,6 +69,7 @@ I'm Artur, a front-end developer. I started my development journey from college,
    <ul>
       <li>https://www.historyofukrainianunity.com/</li>
       <li>https://clickable.agency/</li>
+      <li>https://vng-pixi-2d-game.onrender.com/</li>
       <li>https://ynel.com.ua/</li>
       <li>https://1il.army/</li>
       <li>https://sivers.ua/</li>
