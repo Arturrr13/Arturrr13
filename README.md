@@ -38,15 +38,10 @@ I'm Artur, a front-end developer. I started my development journey from college,
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <br />
 
-<div align="left">
-<details align="left">
- <summary align="left"><h3 align="left">👨‍💻 Work Experience</h3></summary>
+<h3 align="left">👨‍💻 Work Experience</h3>
    <ul>
       <li>freelancer since 08.2021</li>
       <li>12.2021 to 11.2023 in the company "Glyanets"</li>
       <li>from 11.2023 in the company "Clickable"</li>
    </ul>
-</details>
-   
-</div>
 
