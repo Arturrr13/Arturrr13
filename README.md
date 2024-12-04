@@ -4,11 +4,7 @@
 
 **`Front-end developer`**
 
-![KIROKAZE](https://github.com/user-attachments/assets/2130a5e5-70af-494e-8eb4-b5ce19232c11)
-![beavis-computer](https://github.com/user-attachments/assets/aa261c68-a2f7-4dab-97e0-b6e6435af24e)
-<img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" alt="Telegram" />
-![me](https://github.com/user-attachments/assets/aa261c68-a2f7-4dab-97e0-b6e6435af24e)
-
+![KIROKAZE](https://github.com/user-attachments/assets/8a6f1a57-2f25-40fb-8bd6-51c3cad3f74a)
 
 I'm Artur, a front-end developer. I started my development journey from college, where I gained skills programming in C++/C#, but in the 4th year I became interested JavaScript and started independent study. Now I work with Vue.js/Nuxt.js for frontend and Node.js/Express.js for backend, I can create various animations using GSAP, implement cool 3D animations using Three.js, spine animations using Pixi.js
 <br>
