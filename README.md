@@ -3,7 +3,7 @@
 # 🏄‍♂️ Lishchyshyn Artur
 
 **`Front-end developer`**
-![Demo GIF](https://github.com/Arturrr13/Arturrr13/blob/main/KIROKAZE)
+![KIROKAZE](https://github.com/user-attachments/assets/2130a5e5-70af-494e-8eb4-b5ce19232c11)
 
 I'm Artur, a front-end developer. I started my development journey from college, where I gained skills programming in C++/C#, but in the 4th year I became interested JavaScript and started independent study. Now I work with Vue.js/Nuxt.js for frontend and Node.js/Express.js for backend, I can create various animations using GSAP, implement cool 3D animations using Three.js, spine animations using Pixi.js
 <br>
