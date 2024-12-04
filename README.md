@@ -38,6 +38,7 @@ I'm Artur, a front-end developer. I started my development journey from college,
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <br />
 
+<div  align="left">
 <details align="left">
  <summary><h3>👨‍💻 Work Experience</h3></summary>
    <ul>
@@ -46,4 +47,6 @@ I'm Artur, a front-end developer. I started my development journey from college,
       <li>from 11.2023 in the company "Clickable"</li>
    </ul>
 </details>
+   
+</div>
 
