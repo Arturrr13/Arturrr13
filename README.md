@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-# 🏄‍♂️ Lishchyshyn Artur
+# 👨‍💻 Lishchyshyn Artur
 
 **`Front-end developer`**
 
 <img width="100%" src="https://github.com/user-attachments/assets/8a6f1a57-2f25-40fb-8bd6-51c3cad3f74a" alt="gif" />
-
+<br />
+<br />
 I'm Artur, a front-end developer. I started my development journey from college, where I gained skills programming in C++/C#, but in the 4th year I became interested JavaScript and started independent study. Now I work with Vue.js/Nuxt.js for frontend and Node.js/Express.js for backend, I can create various animations using GSAP, implement cool 3D animations using Three.js, spine animations using Pixi.js
 <br>
+<br />
 <p align="center">
   <a href="https://t.me/+380963692408">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -46,10 +48,30 @@ I'm Artur, a front-end developer. I started my development journey from college,
 
 ---
 
-<h3 align="left">👨‍💻 Work Experience</h3>
+<h3 align="left">💻 Work Experience</h3>
    <ul>
       <li>freelancer since 08.2021</li>
       <li>12.2021 to 11.2023 in the company "Glyanets"</li>
       <li>from 11.2023 in the company "Clickable"</li>
+   </ul>
+   
+<br /><br />
+
+<h3 align="left">🎓 Education</h3>
+   <ul>
+      <li>Khmelnytskyi polytechnic college. The specialty "Engineering software"/</li>
+      <li>«Beetroot Academy». The specialty "Front-end developer"</li>
+   </ul>
+
+<br /><br />
+
+<h3 align="left">📗 Example of my projects</h3>
+   <ul>
+      <li>https://www.historyofukrainianunity.com/</li>
+      <li>https://clickable.agency/</li>
+      <li>https://ynel.com.ua/</li>
+      <li>https://1il.army/</li>
+      <li>https://sivers.ua/</li>
+      <li>https://weiss.bet/</li>
    </ul>
 
