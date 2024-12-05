@@ -11,7 +11,7 @@ I'm Artur, a front-end developer. I started my development journey from college,
 <br>
 <br />
 <p align="center">
-  <a href="https://t.me/+380963692408">
+  <a href="https://t.me/+380963692408" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.linkedin.com/in/artur-lishchyshyn-22ba3b248/">
@@ -59,7 +59,7 @@ I'm Artur, a front-end developer. I started my development journey from college,
 
 <h3 align="left">🎓 Education</h3>
    <ul>
-      <li>Khmelnytskyi polytechnic college. The specialty "Engineering software"/</li>
+      <li>Khmelnytskyi polytechnic college. The specialty "Engineering software"</li>
       <li>«Beetroot Academy». The specialty "Front-end developer"</li>
    </ul>
 
